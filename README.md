@@ -89,6 +89,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - The Merck Manuals for providing comprehensive medical knowledge.
 - Libraries like `langchain`, `chromadb`, and `pymupdf` for enabling this project.
 
-## Contact
-
-For questions or feedback, please reach out to Rudra Prakash (rudra.prakash@example.com).
